@@ -1,2 +1,2 @@
-I'm a jack of all trades software engineer working in GN Hearing's research
-department (@gn-as) with a focus on web-related technologies.
+I'm a jack of all trades software engineer mainly interested in all aspects of 
+web development and process automation.
